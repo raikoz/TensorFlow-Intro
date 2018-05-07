@@ -11,9 +11,6 @@ This project helps train a classifier to recognize handwritten character images 
 TensorFlow (https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#pip-installation)
 
 Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
-<p>
-<img src="https://camo.githubusercontent.com/d440ac2eee1cb3ea33340a2c5f6f15a0878e9275/687474703a2f2f692e7974696d672e636f6d2f76692f3051493378675875422d512f687164656661756c742e6a7067" height="220px" align="left">
-</p>
 
 ## Basic Usage
 
